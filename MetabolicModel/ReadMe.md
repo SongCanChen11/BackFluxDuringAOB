@@ -21,6 +21,8 @@ python 13_AOB_M1_SRB.py
 * The energy conversation and investment of the AOB
 	*13_AOB_M1_SRB_no_Einvest__res_dG_nonfeasible.txt*
 
+### 4. Visualization of the model results
+![Results of scenario 1]()
 <br />
 <br />
 <br />
