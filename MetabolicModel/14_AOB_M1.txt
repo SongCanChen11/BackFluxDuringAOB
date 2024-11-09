@@ -1,0 +1,21 @@
+Index	Reaction	ΔG0'	stoichiometry	Enzyme	-0.414	-0.22
+R1	C4H10 (g) + CoM-S-S-CoB == C4H9-S-CoM + HS-CoB	16.900	1	Mcr	16.900	16.900
+R2	HS-CoM + HS-CoB + 2Fdred + 2H+ + 2F420 == CoM-S-S-CoB + 2Fdox + 2F420H2	7.141	1	HdrABC-FrhB	7.141	7.141
+R3	C4H9-S-CoM + CoA + H2O + 2X == Butyryl-CoA + HS-CoM + 2XH2	-386Ex-55.801	1	?	104.003	29.119
+R4	Butyryl-CoA + 2NAD+ + 2Fdred == Crotonyl-CoA + 2NADH + 2Fdox	25.090	1	Bcd-EtfAB	25.090	25.090
+R5	Crotonyl-CoA + H2O == (S)-3-Hydroxybutyryl-CoA	0.300	1	Ech	0.300	0.300
+R6	(S)-3-Hydroxybutyryl-CoA + NAD+ == Acetoacetyl-CoA + NADH + H+	12.545	1	HADH	12.545	12.545
+R7	Acetoacetyl-CoA + CoA == 2 Acetyl-CoA	-28.100	1	ACAT	-28.100	-28.100
+R8	NADH + H+ + MQ == NAD+ + MQH2	-46.320	5	NDH	-46.320	-46.320
+R9	Acetyl-CoA + H4MPT + 2 Fdox + H2O == CH3-H4MPT + CoA + CO2 (g) + 2 Fdred + 2H+	66.114	2	ACS-CODH	66.114	66.114
+R10	CH3-H4MPT + NAD+ == CH2=H4MPT + NADH + H+	1.140	2	Met	1.140	1.140
+R11	CH2=H4MPT + F420 + H+ == CH≡H4MPT+ + F420H2	-6.500	2	Mtd	-6.500	-6.500
+R12	CH≡H4MPT+ + H2O == HCO-H4MPT + H+	2.000	2	Mch	2.000	2.000
+R13	HCO-H4MPT + MF == HCO-MF + H4MPT	-21.100	2	Ftr	-21.100	-21.100
+R14	HCO-MF + H2O + 2Fdox == CO2 (g) + MF + 2H+ + 2Fdred	0.598	2	Fwd	0.598	0.598
+R15	F420H2 + MQ == F420 + MQH2	-50.180	4	Fqo	-50.180	-50.180
+R16	2 Fdred + 2H+ + MQ == 2 Fdox + MQH2	-81.060	2	Nuo	-81.060	-81.060
+R17	MQH2 + X == MQ + XH2	-193Ex-15.440	11	MHCs	64.462	27.020
+AOB	C4H10 (g) + 8H2O + 13X == 4CO2 (g) + 13XH2	-2509Ex-701.702	1		337.024	-149.720
+SR	4XH2 + SO42- + H+ == HS- + 4X + 4H2O	772Ex + 167.416	3.25		-152.192	-2.424
+AOB-SR	C4H10 (g) + 3.25SO42- + 3.25H+ == 3.25HS- + 5H2O + 4CO2 (g)	-157.600	1		-157.6	-157.598
