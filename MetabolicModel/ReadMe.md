@@ -21,8 +21,8 @@ python 13_AOB_M1_SRB.py
 * The energy conversation and investment of the AOB
 	*13_AOB_M1_SRB_no_Einvest__res_dG_nonfeasible.txt*
 
-### 4. Visualization of the model results
-![Results of scenario 1](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/13_.jpg)
+### 4. Visualization of the results
+![Figure 1. Limited concentration of AOB metabolite under scenario 1](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/13_AOB_github.png)
 <br />
 <br />
 <br />
