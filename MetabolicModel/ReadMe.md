@@ -15,15 +15,15 @@ python 13_AOB_M1_SRB.py
 ```
 
 ### 3. Model results 
-* The log10 of the limit concentration of metabolites
+* The log10 of the limit concentration of metabolites under scenario 1
 	*13_AOB_M1_SRB_no_Einvest__res_log10C_nonfeasible.txt*
 
-* The energy conservation and investment of the AOB
+* The energy conservation and investment predicted in AOB pathway under scenario 1
 	*13_AOB_M1_SRB_no_Einvest__res_dG_nonfeasible.txt*
 
 ### 4. Visualization of the results
 ![Figure 1. Limited concentration of AOB metabolite under scenario 1](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/13_AOB_github.png)
-*Figure 1. The limited concentration of AOB metabolites under scenario 1. Check out our paper for more details (https://www.nature.com/articles/s41467-024-53932-9).*
+*Figure 1. The limited concentration of AOB metabolites predicted under scenario 1. Check out our paper for more details (https://www.nature.com/articles/s41467-024-53932-9).*
 <br />
 <br />
 <br />
