@@ -22,7 +22,7 @@ python 13_AOB_M1_SRB.py
 	*13_AOB_M1_SRB_no_Einvest__res_dG_nonfeasible.txt*
 
 ### 4. Visualization of the model results
-![Results of scenario 1](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/13_model.jpg)
+![Results of scenario 1](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/13_.jpg)
 <br />
 <br />
 <br />
