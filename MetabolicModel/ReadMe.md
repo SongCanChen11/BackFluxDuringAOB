@@ -23,6 +23,7 @@ python 13_AOB_M1_SRB.py
 
 ### 4. Visualization of the results
 ![Figure 1. Limited concentration of AOB metabolite under scenario 1](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/13_AOB_github.png)
+*Figure 1. Limited concentration of AOB metabolite under scenario 1. Check out our paper for more details (https://www.nature.com/articles/s41467-024-53932-9)*
 <br />
 <br />
 <br />
