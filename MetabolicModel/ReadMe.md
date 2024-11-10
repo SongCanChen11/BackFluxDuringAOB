@@ -51,7 +51,7 @@ python 17_AOB_M1_SRB.py
 
 ### 4. Visualization of the results
 ![Figure 2. Limited concentration of AOB metabolite under scenario 2](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/17_AOB_github.png)
-
+*Figure 2. Limited concentration of AOB metabolite under scenario 2. Check out our paper for more details (https://www.nature.com/articles/s41467-024-53932-9)*
 <br />
 <br />
 <br />
@@ -78,7 +78,7 @@ python 18_rAOB_M1_SRB.py
 
 ### 4. Visualization of the results
 ![Figure 3. Limited concentration of rAOB metabolite under scenario 3](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/18_rAOB_github.png)
-
+*Figure 3. Limited concentration of rAOB metabolite under scenario 3. Check out our paper for more details (https://www.nature.com/articles/s41467-024-53932-9)*
 
 <br />
 <br />
@@ -106,6 +106,7 @@ python 15_AOB_M1_H2.py
   
 ### 4. Visualization of the results
 ![Figure 4. Limited concentration of AOB metabolite under scenario 4](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/15_AOB_log10C_github.png)
+*Figure 4. Limited concentration of AOB metabolite under scenario 4. Check out our paper for more details (https://www.nature.com/articles/s41467-024-53932-9)*
 
 
 <br />
@@ -133,6 +134,7 @@ python 16_rAOB_M1_SRB.py
 
 ### 4. Visualization of the results
 ![Figure 5. Limited concentration of rAOB metabolite under scenario 5](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/16_rAOB_log10C_github.png)
+*Figure 5. Limited concentration of rAOB metabolite under scenario 5. Check out our paper for more details (https://www.nature.com/articles/s41467-024-53932-9)*
 
 <br />
 <br />
