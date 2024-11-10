@@ -57,7 +57,7 @@ python 17_AOB_M1_SRB.py
 <br />
 
 
-## Scenario 3 (modelling of rAOB by reversing the sites for energy investment and energy harvest of AOB in Scenario 2)
+## Scenario 3 (predicting the feasiblity of rAOB by reversing the energy investment and harvest sites of AOB in Scenario 2)
 
 ### 1. Model setup
 * Reduction of F<sub>420</sub> and Fd<sub>ox</sub> are considered as sites that need energy investment during the rAOB.
@@ -85,7 +85,7 @@ python 18_rAOB_M1_SRB.py
 <br />
 	
 
-## Scenario 4 (modelling of AOB by assuming the redox potential of XH<sub>2</sub>/X is close to H2/H+)
+## Scenario 4 (predicting the feasibility of AOB, assuming the redox potential of XH<sub>2</sub>/X is close to H2/H+)
 
 ### 1. Model setup
 * Oxidation of F<sub>420</sub>H<sub>2</sub> and Fdred are considered as candidate sites for energy conservation during the AOB.
@@ -113,7 +113,7 @@ python 15_AOB_M1_H2.py
 <br />
 <br />
 
-## Scenario 5 (modelling of rAOB by assuming the redox potential of XH<sub>2</sub>/X is close to H<sub>2</sub>/H<sup>+</sup>)
+## Scenario 5 (predicting the feasibility of rAOB, assuming the redox potential of XH<sub>2</sub>/X is close to H<sub>2</sub>/H<sup>+</sup>)
 
 ### 1. Model setup
 * Reduction of F<sub>420</sub> and Fd<sub>ox</sub> are considered as sites that need energy investment during the rAOB.
