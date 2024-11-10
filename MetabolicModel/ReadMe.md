@@ -47,6 +47,10 @@ python 17_AOB_M1_SRB.py
 * The energy conversation and investment of the AOB
 	*17_AOB_M1_SRB__res_dG.txt*
 
+
+### 4. Visualization of the results
+![Figure 2. Limited concentration of AOB metabolite under scenario 2](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/17_AOB_github.png)
+
 <br />
 <br />
 <br />
@@ -71,6 +75,10 @@ python 18_rAOB_M1_SRB.py
 * The energy conversation and investment of the AOB
 	*18_rAOB_M1_SRB__res_dG.txt*
 
+### 4. Visualization of the results
+![Figure 3. Limited concentration of rAOB metabolite under scenario 3](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/18_rAOB_github.png)
+
+
 <br />
 <br />
 <br />
@@ -94,6 +102,10 @@ python 15_AOB_M1_H2.py
 
 * The energy conversation and investment of the AOB
 	*15_AOB_M1_H2__res_dG.txt*
+  
+### 4. Visualization of the results
+![Figure 4. Limited concentration of AOB metabolite under scenario 4](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/15_AOB_log10C_github.png)
+
 
 <br />
 <br />
@@ -118,6 +130,8 @@ python 16_rAOB_M1_SRB.py
 * The energy conversation and investment of the AOB
 	*16_rAOB_M1_H2__res_dG.txt*
 
+### 4. Visualization of the results
+![Figure 5. Limited concentration of rAOB metabolite under scenario 5](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/16_rAOB_log10C_github.png)
 
 <br />
 <br />
