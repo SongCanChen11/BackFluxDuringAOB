@@ -1,6 +1,6 @@
 # Metabolic-Thermodynamic modelling of anaerobic oxidation of butane (AOB) and reverse AOB (rAOB)
 
-In scenario 1-3, the electron carrier XH<sub>2</sub>/X between butane-oxidizing archaea and sulfate reducing bacteria was considered to have a redox potential of -0.22 V, equivalent to the average redox potential of sulfate reduction. This setup reflects the proposed nanowire-based extracellular electron transfer mechanism. In scenario 4-5, the electron carrier XH<sub>2</sub>/X was considered to close the redox potential of H<sub>2</sub>/H<sup>+</sup>.
+In scenario 1-3, the electron carrier XH<sub>2</sub>/X between butane-oxidizing archaea and sulfate reducing bacteria was considered to have a redox potential of -0.22 V, equivalent to the average redox potential of sulfate reduction. This setup reflects the proposed nanowire-based extracellular electron transfer mechanism. In scenario 4-5, the electron carrier XH<sub>2</sub>/X was considered close to the redox potential of H<sub>2</sub>/H<sup>+</sup>.
 
 
 ## Scenario 1 (modelling of AOB without energy investment at endergonic steps)
