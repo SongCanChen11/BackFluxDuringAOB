@@ -15,11 +15,11 @@ python 13_AOB_M1_SRB.py
 ```
 
 ### 3. Model results
-* The log10 of the limit concentration of metabolites under scenario 1
-    *13_AOB_M1_SRB_no_Einvest__res_log10C_nonfeasible.txt*
+* The limit concentration of metabolites (at log10 scale) under scenario 1<br />
+	*13_AOB_M1_SRB_no_Einvest__res_log10C_nonfeasible.txt*
 
-* The energy conservation and investment predicted in AOB pathway under scenario 1
-    *13_AOB_M1_SRB_no_Einvest__res_dG_nonfeasible.txt*
+* The energy conservation and investment predicted in AOB pathway under scenario 1 <br />
+	*13_AOB_M1_SRB_no_Einvest__res_dG_nonfeasible.txt*
 
 ### 4. Visualization of the results
 ![Figure 1. Limited concentration of AOB metabolite under scenario 1](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/13_AOB_github.png)
@@ -42,11 +42,11 @@ python 17_AOB_M1_SRB.py
 ```
 
 ### 3. Model results
-* The log10 of the limit concentration of metabolites
-    *17_AOB_M1_SRB__res_log10C.txt*
+* The limit concentration of metabolites (at log10 scale) under scenario 2<br />
+	*17_AOB_M1_SRB__res_log10C.txt*
 
-* The energy conservation and investment of the AOB
-    *17_AOB_M1_SRB__res_dG.txt*
+* The energy conservation and investment predicted in AOB pathway under scenario 1 <br />
+	*17_AOB_M1_SRB__res_dG.txt*
 
 
 ### 4. Visualisation of the results
@@ -70,11 +70,11 @@ python 18_rAOB_M1_SRB.py
 ```
 
 ### 3. Model results
-* The log10 of the limit concentration of metabolites
-    *18_rAOB_M1_SRB__res_log10C.txt*
+* The limit concentration of metabolites (at log10 scale) under scenario 3<br />
+	*18_rAOB_M1_SRB__res_log10C.txt*
 
-* The energy conservation and investment of the AOB
-    *18_rAOB_M1_SRB__res_dG.txt*
+* The energy conservation and investment predicted in rAOB pathway under scenario 3 <br />
+	*18_rAOB_M1_SRB__res_dG.txt*
 
 ### 4. Visualization of the results
 ![Figure 3. Limited concentration of rAOB metabolite under scenario 3](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/18_rAOB_github.png)
@@ -98,11 +98,11 @@ python 15_AOB_M1_H2.py
 ```
 
 ### 3. Model results
-* The log10 of the limit concentration of metabolites
-    *15_AOB_M1_H2__res_log10C.txt*
+* The limit concentration of metabolites (at log10 scale) under scenario 4 <br />
+	*15_AOB_M1_H2__res_log10C.txt*
 
-* The energy conservation and investment of the AOB
-    *15_AOB_M1_H2__res_dG.txt*
+* The energy conservation and investment predicted in AOB pathway under scenario 4 <br />
+	*15_AOB_M1_H2__res_dG.txt*
  
 ### 4. Visualisation of the results
 ![Figure 4. Limited concentration of AOB metabolite under scenario 4](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/15_AOB_log10C_github.png)
@@ -126,11 +126,11 @@ python 16_rAOB_M1_SRB.py
 ```
 
 ### 3. Model results
-* The log10 of the limit concentration of metabolites
-    *16_rAOB_M1_H2__res_log10C.txt*
+* The limit concentration of metabolites (at log10 scale) under scenario 5<br />
+	*16_rAOB_M1_H2__res_log10C.txt*
 
-* The energy conservation and investment of the AOB
-    *16_rAOB_M1_H2__res_dG.txt*
+* The energy conservation and investment predicted in rAOB pathway under scenario 5 <br />
+	*16_rAOB_M1_H2__res_dG.txt*
 
 ### 4. Visualisation of the results
 ![Figure 5. Limited concentration of rAOB metabolite under scenario 5](https://github.com/SongCanChen11/BackFluxDuringAOB/blob/main/MetabolicModel/16_rAOB_log10C_github.png)
@@ -139,6 +139,8 @@ python 16_rAOB_M1_SRB.py
 <br />
 <br />
 <br />
+
+
 
 
 
