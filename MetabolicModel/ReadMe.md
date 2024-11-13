@@ -45,7 +45,7 @@ python 17_AOB_M1_SRB.py
 * The limit concentration of metabolites (at log10 scale) under scenario 2<br />
 	*17_AOB_M1_SRB__res_log10C.txt*
 
-* The energy conservation and investment predicted in AOB pathway under scenario 1 <br />
+* The energy conservation and investment predicted in AOB pathway under scenario 2 <br />
 	*17_AOB_M1_SRB__res_dG.txt*
 
 
