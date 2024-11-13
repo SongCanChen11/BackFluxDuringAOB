@@ -113,7 +113,7 @@ python 15_AOB_M1_H2.py
 <br />
 <br />
 
-## Scenario 5 (predicting the feasibility of rAOB, assuming the redox potential of XH<sub>2</sub>/X is close to H<sub>2</sub>/H<sup>+</sup>)
+## Scenario 5 (predicting the feasibility of rAOB by reversing the energy investment and harvest sites of AOB in Scenario 4)
 
 ### 1. Model setup
 * Reduction of F<sub>420</sub> and Fd<sub>ox</sub> are considered as sites that need energy investment during the rAOB.
